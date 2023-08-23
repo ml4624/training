@@ -3,3 +3,4 @@ Docked at International Space Station and ready for a sling
 Entering mars orbit
 Starting descend
 landed
+from Rstudio
